@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Anthony Davi sou <strong>Desenvolvedor Aprendiz</strong> e <strong>UI Designer</strong>.<br>
-  Estou cursando Engenharia da Computação pelo <strong>IFCE<strong>.
+  Olá, meu nome é Anthony Davi sou <strong>Estudande de Programação</strong> e <strong>UI Designer</strong>.<br>
+  Estou cursando Engenharia da Computação no <strong>IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará)<strong>.
 </p>
 
 <p align="left">
