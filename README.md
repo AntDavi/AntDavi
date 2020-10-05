@@ -19,7 +19,7 @@
 
 <p align="left">
 💌  Quer falar comigo?<br>
-  Me mande mensagem em alguma dessas redes sociais abaixo ⤵️
+  Me mande mensagem com o email a baixo ⤵️
 </p>
 
 <p align="left">
