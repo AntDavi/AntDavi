@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é Anthony Davi sou <strong>Estudande de Programação</strong> e <strong>UI Designer</strong>.<br>
-  Estou cursando Engenharia da Computação no <strong>IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará)<strong>.
+  Estou cursando Engenharia da Computação no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)<strong>.
 </p>
 
 <p align="left">
