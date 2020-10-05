@@ -27,4 +27,6 @@
 <img src="https://img.shields.io/badge/-ant.davi07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ant.davi07@gmail.com" /></a>
   
 </p>
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AntDavi)](https://github.com/anuraghazra/github-readme-stats)
