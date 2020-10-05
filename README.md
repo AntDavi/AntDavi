@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, ReactNative e UI Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3 e UI Design.</strong>
 </p>
 
 <p align="left">
