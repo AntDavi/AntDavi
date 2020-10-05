@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="mailto:ant.davi07@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<img src="https://img.shields.io/badge/-ant.davi07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ant.davi07@gmail.com" /></a>
   
 </p>
  
