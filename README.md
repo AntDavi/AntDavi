@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  🔥 Pretende aprender: <strong>Bootstrap, C++ e UX Design.</strong>
+  🔥 Pretendo aprender: <strong>Bootstrap, C++ e UX Design.</strong>
 </p>
 
 <p align="center">
-💌  Quer falar comigo?<br>
-  Me mande mensagem com o email a baixo ⤵️
+   💌  Quer falar comigo?<br>
+Me mande mensagem com o email a baixo ⤵️
 </p>
 
 <p align="center">
