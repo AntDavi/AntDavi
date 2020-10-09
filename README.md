@@ -1,23 +1,21 @@
 <img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
-
 <h1 align="center">Olá 👋, sou Anthony Davi</h1>
 
-<p align="left">
+<p align="center">
   Estou cursando Engenharia da Computação no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)<strong>.
 </p>
 
-<p align="left">
+<p align="center">
   🔥 Pretende aprender: <strong>Bootstrap, C++ e UX Design.</strong>
 </p>
 
-<p align="left">
+<p align="center">
 💌  Quer falar comigo?<br>
   Me mande mensagem com o email a baixo ⤵️
 </p>
 
-<p align="left">
+<p align="center">
 <a href="mailto:ant.davi07@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-ant.davi07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ant.davi07@gmail.com" /></a>
   
