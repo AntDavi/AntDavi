@@ -35,5 +35,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntDavi&show_icons=true" alt="AntDavi" />
 </p>
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
