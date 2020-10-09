@@ -9,14 +9,6 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3 e UI Design.</strong>
-</p>
-
-<p align="left">
-  🌈 Estudando atualmente: <strong>ReactNative.</strong>
-</p>
-
-<p align="left">
   🔥 Pretende aprender: <strong>Bootstrap, C++ e UX Design.</strong>
 </p>
 
