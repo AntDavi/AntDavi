@@ -23,7 +23,7 @@
 
 <p align="center">
    💌  Quer falar comigo?<br>
-Me mande uma mensagem com o email a baixo ⤵️
+Use um dos meios abaixo ⤵️
 </p>
 
 <p align="center">
