@@ -1,29 +1,24 @@
-<img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png">
+## Oiii! Eu sou a Anthony Davi
 
-<h1 align="center">Olá 👋, sou Anthony Davi</h1>
-
-<p align="center">
-  Estou cursando Engenharia da Computação no <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)<strong>.
-</p>
-
-<p align="center">
-   💌  Quer falar comigo?<br>
-Use um dos meios abaixo ⤵️
-</p>
-
-<p align="center">
-<a href="mailto:ant.davi07@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-ant.davi07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ant.davi07@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/antdavi/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antdavi/" /></a>
-<a href="https://www.instagram.com/sou.eu.anthony/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/sou.eu.anthony/"/></a>
+ <div>
+  <a href="https://github.com/AntDavi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntDavi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavi&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
   
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntDavi&show_icons=true" alt="AntDavi" />
-</p>
-
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ant-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ant-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ant-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ant-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ant-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  
+  <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/e6bbae2a8ec12d8431961ec0ba875cd8.gif">
+</div>
+  
+  ##
+  
+<div>
+    <a href="https://www.instagram.com/sou.eu.anthony/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/antdavi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
