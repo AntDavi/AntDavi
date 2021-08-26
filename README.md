@@ -1,4 +1,8 @@
-## Oiii! Eu sou a Anthony Davi
+## Hello! I'm Anthony Davi
+
+
+- 📚 Currently studying: React Native
+- 🥰 Passionate about beautiful screens (UI)
 
  <div>
   <a href="https://github.com/AntDavi">
