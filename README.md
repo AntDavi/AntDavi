@@ -1,7 +1,7 @@
 ## Hello! I'm Anthony Davi
 
 
-- 📚 Currently studying: React Native
+- 📚 Currently studying: Front End
 - 🥰 Passionate about beautiful screens (UI)
 
  <div>
