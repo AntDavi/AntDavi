@@ -3,7 +3,6 @@
 #### Um Desenvolvedor Front-End de dia ☀️ e um Apaixonado por UX de noite 🌙
 
 Desenvolvedor Front-End com foco em **React** & **Ionic**;  
-Estudante de Engenharia da Computação no [IFCE](https://www.ifce.edu.br) 🔧
 
 - ⚙️ Uso no dia a dia: `.js`, `.ts`, `.html`, `.css`, `.scss`
 - 🌿 Vivo explorando o universo do **UX** e **design de interfaces**
