@@ -6,4 +6,5 @@ Desenvolvedor Front-End com foco em **React** & **Ionic**;
 
 - ⚙️ Uso no dia a dia: `.js`, `.ts`, `.html`, `.css`, `.scss`
 - 🌿 Vivo explorando o universo do **UX** e **design de interfaces**
+- 🖌️ Figma é minha praia
 - 💬 Me chama pra trocar ideia sobre **React**, **Ionic**, **UX**, **desenvolvimento web**, **sistemas de design**
