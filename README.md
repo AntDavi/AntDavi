@@ -1,10 +1,10 @@
-### E aí 👋
+### Hey there 👋
 
-#### Um Desenvolvedor Front-End de dia ☀️ e um Apaixonado por UX de noite 🌙
+#### A Front-End Developer by day ☀️ and a UX Enthusiast by night 🌙
 
-Desenvolvedor Front-End com foco em **React** & **Ionic**;  
+Front-End Developer focused on ***React*** & ***Ionic***;
 
-- ⚙️ Uso no dia a dia: `.js`, `.ts`, `.html`, `.css`, `.scss`
-- 🌿 Vivo explorando o universo do **UX** e **design de interfaces**
-- 🖌️ Figma é minha praia
-- 💬 Me chama pra trocar ideia sobre **React**, **Ionic**, **UX**, **desenvolvimento web**, **sistemas de design**
+- ⚙️ Daily tools: `.js`, `.ts`, `.html`, `.css`, `.scss`
+- 🌿 Always exploring the world of ***UX*** and ***Interface Design***
+- 🖌️ ***Figma*** is my playground
+- 💬 Hit me up to chat about **React**, **Ionic**, **UX**, **web development** or **design systems**
