@@ -55,9 +55,10 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis e
 
 <div align="center">
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntDavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C72C4&icon_color=4C72C4&text_color=ffffff&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntDavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C72C4&icon_color=4C72C4&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C72C4&text_color=ffffff&hide=html,css&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C72C4&text_color=ffffff&hide=html,css&langs_count=8)
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AntDavi&theme=tokyonight&hide_border=true&background=0D1117&stroke=4C72C4&ring=4C72C4&fire=FF6B35&currStreakLabel=4C72C4)
 
@@ -85,6 +86,12 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis e
 
 ## 🎮 Atividade Recente
 
+<div align="center">
+
+[![Anthony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntDavi&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -93,8 +100,8 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis e
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4C72C4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anthonyfront.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antdavi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antdavi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntDavi)
 
 </div>
 
