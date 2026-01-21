@@ -8,7 +8,7 @@ Front-End Developer focused on ***React*** & ***Ionic***;
 - 🌿 Always exploring the world of ***UX*** and ***Interface Design***
 - 🖌️ ***Figma*** is my playground
 - 💬 Hit me up to chat about **React**, **Ionic**, **UX**, **web development** or **design systems**
-- 
+  
 <div align="start">
 
 **Thank you for visiting! 🚀**
