@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-// #### A Front-End Developer by day ☀️ and a UX Enthusiast by night 🌙
+#### A Front-End Developer by day ☀️ and a UX Enthusiast by night 🌙
 
 Front-End Developer focused on ***React*** & ***Ionic***;
 
