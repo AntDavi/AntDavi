@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### A Front-End Developer by day ☀️ and a UX Enthusiast by night 🌙
+#### A FullStack Developer by day ☀️ and a UX Enthusiast by night 🌙
 
 FullStack Developer focused on ***ReactJS and Angular*** & ***Node and FastAPI***;
 
