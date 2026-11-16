@@ -5,7 +5,7 @@
 FullStack Developer focused on ***ReactJS and Angular*** & ***Node and FastAPI***;
 Mobile Dev sometimes;
 
-- ⚙️ Daily tools: `.te`, `.tsx`, `.js`, `.py`
+- ⚙️ Daily tools: `.ts`, `.tsx`, `.js`, `.py`
 - 🌿 Always exploring the world of ***UX*** and ***Interface Design***
 - 🖌️ ***Figma*** is my playground
 - 💬 Hit me up to chat about **React**, **Ionic**, **UX**, **web development** or **design systems**
